@@ -8,12 +8,10 @@ body{
     height:100vh;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(#ffffff,#2fff51, 50%, #8affb3, #00ff11);
+    background: linear-gradient(#00ff04,#59ff75, 50%, #b8ffa4, #15a100);
 }
 header, footer {
     height: 100px;
-    background-color: #00ff4c;
-    color: #2fff51;
     display:flex;
     align-items: center;
     justify-content: space-between;
@@ -23,15 +21,13 @@ header{
     height: 100px;
     display: flex;
     align-items: center;
-    background-color: #b6ffa6;
     gap: 24px;
     color: #FFFFFF;
     padding: 75px;
     justify-content: flex-start;
 }
 .coca-cola{
-    max-width: 100px; 
-    max-width: 300px;
+    max-width: 450px;
 }
 header span{
     font-weight: 600;
