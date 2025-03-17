@@ -1,11 +1,15 @@
 1)O que é um repositório no Git e qual a sua importância?
-
+    Lugar onde pode armazenar o seu código, importante por permitir que os desenvolvedores acessem as verões do código
 2)Qual a função do Git Bash?
+    O Git Bash permite usar os comandos do Git no sistema Windows, emulando um terminal Unix
 3)O que faz o comando git add e qual a diferença entre git add <arquivo> e git add .?
+    Perpara o projeto para comitar, o git add <arquivo> funciona para um ou varios arquivos especificos e o git add . faz em todos. 
 4)Por que utilizamos o ponto (.) no comando git add .?
     Para incluir todos os arquivos
 5)Explique o comando git commit e por que é importante criar uma mensagem descritiva.
+    Para explicar o que foi realizado em tal momento.
 6)Qual a função do comando git push?
+    levar o projeto ao GitHub.
 7)Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
     Para saber o que você realizou durante o projeto
 8)Explique a função das tags HTML e como elas estruturam uma página.
@@ -14,15 +18,23 @@
     footer é a parte inferior da pagina.
     todas tem a função criar um container
 9)O que são atributos em uma tag HTML e qual a sua função?
+    São informações que controlam o comportamento da tag, para que a tag se comporte da maneira esperada
 10)O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+  Emmet é um conjunto de plug-ins que auxiliam na digitação de códigos.
 11)O que é o box-sizing no CSS e por que usamos ele no reset inicial?
+    O box-sizing é um comando que manipula a propriedade padrão da box model, usamos ele no reset inicial para facilitar a manipulação dos elementos da página
 12)Por que é importante utilizar tags semânticas no HTML?
     Para descrever o significado do conteudo.
 13)O que são media queries no CSS e qual a sua função?
+    é o recurso que serve para adaptar o site a diferentes dispositivos
 14)Qual a função do GitHub Pages?
     criar uma pagina de site como base no conteudo que esta armazenado no GitHub
 15)O que é o Flexbox no CSS e para que ele é utilizado?
+    ele é utilizando principalmente quando quer organizar os elementos que estão em um container
 16)Qual a diferença entre justify-content e align-items em um container Flexbox?
+    justify-content serve para alinhar os itens ao longo da flex-direction
+    align-items alinha os itens independente do tamanho deles
 17)Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
+    serve para definir a quantidade de espaço que os itens poderão ocupar no container
 18)Explique a diferença entre flex-direction: column; e flex-direction: row;.
     O flex-direction: column serve para organizar todos os items em colunas, já o flex-direction: row serve para organizar todos os items em linhas
