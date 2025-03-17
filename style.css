@@ -28,6 +28,9 @@ header{
     padding: 75px;
     justify-content: flex-start;
 }
+.dolly{
+    max-width: 200px; 
+}
 header span{
     font-weight: 600;
 }

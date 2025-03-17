@@ -29,6 +29,10 @@ header{
     padding: 75px;
     justify-content: flex-start;
 }
+.coca-cola{
+    max-width: 100px; 
+    max-width: 300px;
+}
 header span{
     font-weight: 600;
 }
